@@ -3,22 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zOnClickedAction</string>
+	<string>zMethod</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#Comment#&gt; */
-- (void)onClicked&lt;#Event#&gt;:(id)sender {
-    
-}</string>
+	<string>/** &lt;#method#&gt; */
+- (void)&lt;#method#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E8746F18-C514-44D3-84C9-55DDAEA44C24</string>
+	<string>1FDD58BE-B7DC-46A6-958A-38A50D27AF47</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>onClickedAction</string>
+	<string>methodName</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

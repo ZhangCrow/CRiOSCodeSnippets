@@ -8,6 +8,7 @@
 	<array>
 		<string>ClassInterfaceMethods</string>
 		<string>ClassInterfaceVariables</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>/** &lt;#Comment#&gt; */
