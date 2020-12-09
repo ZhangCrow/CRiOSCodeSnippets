@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zCommrntDebug</string>
+	<string>zkKbizposUpdateAny</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// Debug(zkr):</string>
+	<string>KMRevenueTrackManager.share().update&lt;#Key#&gt;("zhangkrDebug")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>299DFCFC-2AA0-4517-BBEB-5D322AFA9778</string>
+	<string>C5DF002B-C3B9-4FFC-8A74-F962A54DD6C7</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Commrnt of Debug(zkr)</string>
+	<string>CrInKeep - kbizPos埋点</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Debug(zkr): ...</string>
+	<string>Kep Code: kbizPos updateXXX</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

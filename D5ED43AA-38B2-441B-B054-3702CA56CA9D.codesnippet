@@ -8,17 +8,20 @@
 	<array>
 		<string>ClassInterfaceMethods</string>
 		<string>ClassInterfaceVariables</string>
-		<string>All</string>
+		<string>CodeExpression</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#Comment#&gt; */
+	<string>/// &lt;#Comment#&gt;
 @property (nonatomic, &lt;#strong#&gt;) &lt;#id#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5ED43AA-38B2-441B-B054-3702CA56CA9D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 声明属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property (nonatomic, undef) id;</string>
+	<string>Cr Declare: @property (nonatomic, undef) id;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

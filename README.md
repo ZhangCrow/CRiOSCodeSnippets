@@ -5,8 +5,3 @@
 $ cd /Users/Username/Library/Developer/Xcode/UserData/CodeSnippets
 ```
 
-
-```
-Test
-```
-

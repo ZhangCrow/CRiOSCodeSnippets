@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zLogFunLine</string>
+	<string>zHHTLogFunLine</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
@@ -14,8 +14,10 @@
 	<string>37E88430-3FD6-4FC5-82AE-C76D946B51D4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrInHHT - 统一格式的日志</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSLogDebug-FuncLineType</string>
+	<string>zHHT: NSLog-FuncLine</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

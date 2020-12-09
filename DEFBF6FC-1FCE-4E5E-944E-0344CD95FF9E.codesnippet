@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zZZZBlank</string>
+	<string>zZZPlaceholder</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -14,8 +14,10 @@
 	<string>DEFBF6FC-1FCE-4E5E-944E-0344CD95FF9E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 一个空白块</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>空白待输入</string>
+	<string>Cr Code: empty placeholder</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

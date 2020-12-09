@@ -9,13 +9,15 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"DebugZkr - &lt;#(String)#&gt;");</string>
+	<string>NSLog(@": zhangkr Debug - &lt;#(String)#&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>607E853A-7FAC-4D7F-AF1E-6CD5724DFA93</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 调试用NSLog</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSLogDebug-DefaultType</string>
+	<string>Cr Code: NSLogDebug</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

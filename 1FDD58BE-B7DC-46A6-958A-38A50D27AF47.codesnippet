@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zMethod</string>
+	<string>zHHTMethod</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -15,8 +15,10 @@
 	<string>1FDD58BE-B7DC-46A6-958A-38A50D27AF47</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrInHHT - 统一格式的方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>methodName</string>
+	<string>zHHT: MethodName</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

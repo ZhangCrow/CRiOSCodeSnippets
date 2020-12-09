@@ -17,8 +17,10 @@
 	<string>E56A1FD3-F3FB-42BA-A4E8-C0EB35E999AF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 声明枚举类型</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>typedef NS_ENUM</string>
+	<string>Cr Declare: typedef NS_ENUM</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

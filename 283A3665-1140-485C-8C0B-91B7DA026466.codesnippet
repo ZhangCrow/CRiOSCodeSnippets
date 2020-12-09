@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zWeak</string>
+	<string>zWeakify</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
@@ -14,8 +14,10 @@
 	<string>283A3665-1140-485C-8C0B-91B7DA026466</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - weakify</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@weakify(&lt;#self#&gt;)</string>
+	<string>Cr Code: @weakify</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

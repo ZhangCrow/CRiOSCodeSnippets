@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ztrackPage</string>
+	<string>zHHTTrackPage</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>爱学Growing页面埋点</string>
+	<string>CrInHHT - Growing页面埋点</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>HHTTrackPage</string>
+	<string>zHHT: TrackPage</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

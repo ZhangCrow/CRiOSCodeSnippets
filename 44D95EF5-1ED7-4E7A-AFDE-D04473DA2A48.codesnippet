@@ -18,8 +18,10 @@
 	<string>44D95EF5-1ED7-4E7A-AFDE-D04473DA2A48</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 声明按位枚举类型</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>typedef NS_OPTIONS</string>
+	<string>Cr Declare: typedef NS_OPTIONS</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

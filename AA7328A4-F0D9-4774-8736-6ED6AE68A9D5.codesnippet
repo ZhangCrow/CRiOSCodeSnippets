@@ -9,15 +9,18 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)tmpDebugTest&lt;#Name#&gt;&lt;#By:(id)item#&gt; {
+	<string>// MARK: zhangkr DebugCode &lt;#zz#&gt;
+- (void)tmpDebug&lt;#Name#&gt;&lt;#By:(id)item#&gt; {
     
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA7328A4-F0D9-4774-8736-6ED6AE68A9D5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 临时调试方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TmpDebugTestMethod</string>
+	<string>Cr Method: - tmpDebugMethod</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zCommentTodo</string>
+	<string>zStrongifyCheckNil</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO(zkr): </string>
+	<string>@strongify_return_as_nil(&lt;#self#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96AE8C8E-6C4F-4B5E-9CC4-3D59B40924A3</string>
+	<string>008F7AC5-806C-4D3F-BA00-6B7E006925FB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Commrnt of Todo(zkr)</string>
+	<string>CrPrivate - strongify&amp;判空</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TODO(zkr): ...</string>
+	<string>Cr Code: @strongify_return_as_nil</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

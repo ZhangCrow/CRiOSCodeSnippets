@@ -19,8 +19,10 @@
 	<string>5E168AD1-C12E-4CF1-9872-DF9733579056</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 初始化方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>init</string>
+	<string>Cr Method: - init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -62,8 +62,10 @@
 	<string>4A806509-68C8-4F42-9E3F-0AB87DCA7ED7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Deprecated - 未知的代码块</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TableCodable Snippet</string>
+	<string>zDeprecated: TableCodable Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

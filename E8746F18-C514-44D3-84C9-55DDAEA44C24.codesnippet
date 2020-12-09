@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#Comment#&gt; */
+	<string>// &lt;#Comment#&gt;
 - (void)onClicked&lt;#Event#&gt;:(id)sender {
     
 }</string>
@@ -17,8 +17,10 @@
 	<string>E8746F18-C514-44D3-84C9-55DDAEA44C24</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CrPrivate - 点击事件方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>onClickedAction</string>
+	<string>Cr Method: - onClickedAction</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
